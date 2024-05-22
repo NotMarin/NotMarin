@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Santiago Marin Henao
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React Native
